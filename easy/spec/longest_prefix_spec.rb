@@ -1,4 +1,4 @@
-require './longest_prefix'
+require './lib/longest_prefix'
 
 RSpec.describe LongestPrefix do
   it 'will return the longest matching prefix in provided strings' do

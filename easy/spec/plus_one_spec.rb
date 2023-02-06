@@ -1,4 +1,4 @@
-require './plus_one'
+require './lib/plus_one'
 
 RSpec.describe PlusOne do
   it 'will take an array of digits and add 1' do

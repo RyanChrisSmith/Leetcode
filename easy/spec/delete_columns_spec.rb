@@ -1,4 +1,4 @@
-require './delete_columns'
+require './lib/delete_columns'
 
 RSpec.describe DeleteColumns do
   it 'will sort to a matrix and then choose how many rows to delete' do

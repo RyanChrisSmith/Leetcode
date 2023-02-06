@@ -1,4 +1,4 @@
-require './add_two_numbers'
+require './lib/add_two_numbers'
 
 RSpec.describe AddTwoNumbers do
   it 'can add two lists together' do

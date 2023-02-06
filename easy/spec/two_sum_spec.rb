@@ -1,4 +1,4 @@
-require './two_sum'
+require './lib/two_sum'
 require 'benchmark'
 
 RSpec.describe TwoSum do

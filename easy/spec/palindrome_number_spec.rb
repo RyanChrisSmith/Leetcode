@@ -1,4 +1,4 @@
-require './palindrome_number'
+require './lib/palindrome_number'
 
 RSpec.describe PalindromeNumber do
   it 'can tell if a number is a palindrome' do
